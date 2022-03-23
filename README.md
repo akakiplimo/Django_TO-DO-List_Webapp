@@ -6,7 +6,8 @@
 4. Can view an existing item and update it
 5. Can delete an item
 
-> After cloning the project set it up and run it by doing the following:
+> After cloning the project set it up and run it by doing the following;
+
 i. Create the migrations for our DB Models using the command
 ```
 python manage.py makemigrations
