@@ -1,4 +1,4 @@
-<h1 align="center">Django TO-DO List App with User Registration & Login Capabilities</h1>
+# Django TO-DO List App with User Registration & Login
 > This is a to-do list with the following capabilities;
 1. User Registration
 2. User Login
